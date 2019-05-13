@@ -1,5 +1,5 @@
 import unittest
-from InstagramBot import InstagramBot
+from main import InstagramBot
 
 
 class InstagramBotTests(unittest.TestCase):
